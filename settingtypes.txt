@@ -77,7 +77,7 @@ spawncraft_villager (Allow villager egg recipe) bool true
 spawncraft_bee (Allow bee egg recipe) bool true
 
 #	Allows crafting enderman eggs
-spawncraft_enderman (Allow enderman egg recipe) bool true
+spawncraft_enderman (Allow enderman/rover egg recipe) bool true
 
 #	Allows crafting iron golem eggs
 spawncraft_iron_golem (Allow iron golem egg recipe) bool true
@@ -92,7 +92,7 @@ spawncraft_polar_bear (Allow polar bear egg recipe) bool true
 spawncraft_blaze (Allow blaze egg recipe) bool true
 
 #	Allows crafting creeper eggs
-spawncraft_creeper (Allow creeper egg recipe) bool true
+spawncraft_creeper (Allow creeper/stalker egg recipe) bool true
 
 #	Allows crafting guardian eggs
 spawncraft_guardian (Allow guardian egg recipe) bool true
